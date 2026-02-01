@@ -147,7 +147,6 @@ This project was developed for **academic purposes** as a *minor project* in the
 ## 👩‍💻 Developer
 
 **Sravya**
-
 Cyber Security & Digital Forensics Student
 National Forensic Sciences University (NFSU), Gujarat
 
